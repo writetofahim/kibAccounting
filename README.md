@@ -96,12 +96,3 @@ This project is licensed under the `MIT License`.
 ## Acknowledgments
 
 We would like to express our gratitude to Krishibid Institution Bangladesh for their support and guidance in the development of this accounting software. Additionally, we appreciate the efforts of all the contributors who have helped shape and improve KIB Accounting.
-
-## Contact
-
-If you have any questions or inquiries about KIB Accounting, please contact:
-
-* Dotpot IT 
-* Email: dotpotit@gmail.com
-
-We look forward to hearing from you and assisting with any queries you may have! 
